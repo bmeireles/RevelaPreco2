@@ -13,12 +13,17 @@ The most important functionalities of the application include:
 
 ## Interface
 
+<img align="left" alt="Recent products added" title="Recent products added" src="https://github.com/bmeireles/RevelaPreco2/blob/main/revela_produtosrecentes.png" width="23%" height="23%" />
 
+<img align="left" alt="Creating a new list" title="Creating a new list" src="https://github.com/bmeireles/RevelaPreco2/blob/main/revela_criarlista.png" width="23%" height="23%" />
 
+<img align="left" alt="Accumulated points" title="Accumulated points" src="https://github.com/bmeireles/RevelaPreco2/blob/main/revela_pontos.png" width="23%" height="23%" />
 
+<img align="left" alt="QR Code reading" title="QR Code reading" src="https://github.com/bmeireles/RevelaPreco2/blob/main/revela_qrcode.png" width="23%" height="23%" />
 
-
+Above there are a few images to illustrate the application interface.
 
 ## Contributors
+
 * [Ludmila Meireles](https://www.linkedin.com/in/ludmila-barros-meireles-71402881/)
 * [Arthur Turrini](https://www.linkedin.com/in/arthur-turrini-11a707210/)
