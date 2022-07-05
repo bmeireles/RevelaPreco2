@@ -2,7 +2,7 @@
 
 ## Description
 RevelaPreco2 is a mobile application developed with the purpose of helping people to find the best prices of a certain product, at the most convenient place for them. By purchasing in affiliated establishments and importing their coupons in the app, anybody can have access to that specific product price and store location. Thus, every person using the app helps to generate a database of products and stores, increasing the information available to all users. The application was developed using Qml and C++ under the Qt Creator IDE.
-RevelaPreco2 follows the same structure and functionalities as the original application, [Revela Preço](https://www.revelapreco.com/) , developed by [Infr4 Tecnologia](https://www.linkedin.com/company/infr4/about/)
+RevelaPreco2 follows the same structure and functionalities as the original application, [Revela Preço](https://www.revelapreco.com/) , developed by [Infr4 Tecnologia.](https://www.linkedin.com/company/infr4/about/)
 
 ## Main Features
 The most important functionalities of the application include:
